@@ -16,7 +16,9 @@ This is my college lab work repository. However, suggestions for improvement are
 
 📧 Contact 
 Name: Harish Nirmalkar
+
 Email: harishnirmalkar2128@gmail.com
+
 GitHub: https://github.com/harishnirmalkar2128-hub
 
 📅 Academic Details

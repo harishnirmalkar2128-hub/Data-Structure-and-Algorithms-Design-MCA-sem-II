@@ -3,19 +3,19 @@
 📌 About
 This repository contains all my Data Structures and Algorithms lab assignments done during my college coursework. Each program is properly tested and includes comments for better understanding.
 
-------------📁 Lab Assignments List------------
+📁 Lab Assignments List
 
 
 
-------------🛠️ Technologies Used 🛠️------------
+🛠️ Technologies Used 
 - Programming Language: PYTHON
 - IDE: VS Code 
 
-------------🤝 Contributing 🤝------------
+🤝 Contributing 
 
 This is my college lab work repository. However, suggestions for improvement are welcome!
 
-------------📧 Contact 📧------------ 
+📧 Contact 
 
 Name: Harish Nirmalkar
 
@@ -23,7 +23,7 @@ Email: harishnirmalkar2128@gmail.com
 
 GitHub: https://github.com/harishnirmalkar2128-hub
 
-------------📅 Academic Details 📅------------
+📅 Academic Details 
 
 Course: Data Structures and Algorithms Design
 

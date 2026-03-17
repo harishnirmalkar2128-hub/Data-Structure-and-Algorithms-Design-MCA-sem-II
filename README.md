@@ -23,6 +23,9 @@ GitHub: https://github.com/harishnirmalkar2128-hub
 
 📅 Academic Details
 Course: Data Structures and Algorithms Design
+
 Course-Semester: MCA 2nd SEM
+
 Year: 2026
+
 College: Rungta International Skills University

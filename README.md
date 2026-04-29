@@ -23,6 +23,8 @@ Email: harishnirmalkar2128@gmail.com
 
 GitHub: https://github.com/harishnirmalkar2128-hub
 
+LinkedIN: www.linkedin.com/in/harish-nirmalkar2128
+
 📅 Academic Details 
 
 Course: Data Structures and Algorithms Design

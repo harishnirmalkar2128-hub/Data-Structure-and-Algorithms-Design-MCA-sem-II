@@ -1,34 +1,42 @@
-# Data Structures and Algorithms Lab Assignments 📚
+# 📚 Data Structures and Algorithms - Lab Assignments (MCA - Semester 2)
 
-📌 About
-This repository contains all my Data Structures and Algorithms lab assignments done during my college coursework. Each program is properly tested and includes comments for better understanding.
+This repository contains all my practical implementations and lab assignments for the **Data Structures and Algorithms Design** course (Academic Year: 2026). Each program is properly tested, optimized, and includes clear code comments for better logical understanding. ⚡
 
-📁 Lab Assignments List
+---
 
+## 🛠️ Tech Stack & Utilities
 
+Here are the primary languages and environments used for these algorithmic implementations:
 
-🛠️ Technologies Used 
-- Programming Language: PYTHON
-- IDE: VS Code 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-🤝 Contributing 
+---
 
-This is my college lab work repository. However, suggestions for improvement are welcome!
+## 📁 Core Algorithmic Concepts Covered
 
-📧 Contact 
+This repository documents hands-on practice with foundational data structures and problem-solving techniques:
 
-Name: Harish Nirmalkar
+*   **📈 Linear Data Structures:** Arrays, Link Lists, Stacks, and Queues.
+*   **🌳 Non-Linear Data Structures:** Binary Trees, Search Trees, and Graph fundamentals.
+*   **🔍 Searching & Sorting Algorithms:** Bubble Sort, Merge Sort, Quick Sort, Linear/Binary Search, etc.
+*   **⚙️ Analysis & Design:** Time complexity awareness and efficient logic building.
 
-Email: harishnirmalkar2128@gmail.com
+---
 
-GitHub: https://github.com/harishnirmalkar2128-hub
+## 📋 Lab Assignments List
 
-📅 Academic Details 
+*   `01_Basics/` — Foundational array and list manipulation programs.
+*   `02_Sorting/` — Implementation of classical sorting algorithms.
+*   `03_Data_Structures/` — Custom stack, queue, and abstract data type models.
+*(Note: You can update this section with your exact folder names as you create them this semester!)*
 
-Course: Data Structures and Algorithms Design
+---
 
-Course-Semester: MCA 2nd SEM
+## 👤 About Me
 
-Year: 2026
+*   **Name:** Harish Nirmalkar 🧑‍💻
+*   **College:** Rungta International Skills University, Kohka, Bhilai 📍
+*   **Motto:** *"Har din ek naya savera hai"* (New Day, New Learning) 🧠
 
-College: Rungta International Skills University
+📩 **Let's Connect:** [harishnirmalkar2128@gmail.com](mailto:harishnirmalkar2128@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harish-nirmalkar2128)

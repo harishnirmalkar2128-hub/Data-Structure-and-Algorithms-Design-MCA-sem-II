@@ -13,7 +13,7 @@ Here are the primary tools and languages used to design and execute these algori
 
 ---
 
-## 📁 Practical Concepts Covered (Jitne Programs Implemented Hain)
+## 📁 Practical Concepts Covered
 
 This repository serves as a practical log for core data structure challenges. The code files sequentially cover the following concepts:
 

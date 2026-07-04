@@ -1,35 +1,43 @@
 # 📚 Data Structures and Algorithms - Lab Assignments (MCA - Semester 2)
 
-This repository contains all my practical implementations and lab assignments for the **Data Structures and Algorithms Design** course (Academic Year: 2026). Each program is properly tested, optimized, and includes clear code comments for better logical understanding. ⚡
+This repository contains my core practical implementations and laboratory assignments for the **Data Structures and Algorithms Design** course (Academic Year: 2026). Each program is written in Python, optimized for efficiency, and includes descriptive comments to explain the underlying logic. ⚡
 
 ---
 
 ## 🛠️ Tech Stack & Utilities
 
-Here are the primary languages and environments used for these algorithmic implementations:
+Here are the tools and languages used to design and execute these algorithms:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📁 Core Algorithmic Concepts Covered
+## 📁 Unit-Wise Program Index (Total: 22 Programs)
 
-This repository documents hands-on practice with foundational data structures and problem-solving techniques:
+The script files inside this repository map directly to the official university syllabus divisions:
 
-*   **📈 Linear Data Structures:** Arrays, Link Lists, Stacks, and Queues.
-*   **🌳 Non-Linear Data Structures:** Binary Trees, Search Trees, and Graph fundamentals.
-*   **🔍 Searching & Sorting Algorithms:** Bubble Sort, Merge Sort, Quick Sort, Linear/Binary Search, etc.
-*   **⚙️ Analysis & Design:** Time complexity awareness and efficient logic building.
+### 🧩 Unit 1: Introduction to Data Structures
+*   Basic operations like Traversing, Insertion, Deletion, and Searching setups.
+*   Pseudocode logic mappings and introductory problem-solving scripts.
 
----
+### ⛓️ Unit 2: Linear Data Structures
+*   **Arrays:** Multi-dimensional arrays and address calculations.
+*   **Linked Lists:** Implementation of Singly, Doubly, and Circular Linked Lists.
+*   **Stacks & Queues:** Core operations (`PUSH`, `POP`), applications like Infix/Postfix evaluations, Recursion handling, and implementations of Circular Queues, Deques, or Priority Queues.
 
-## 📋 Lab Assignments List
+### 🔍 Unit 3: Searching and Sorting
+*   **Searching:** Linear Search and Binary Search algorithms.
+*   **Sorting:** Hands-on implementations of Bubble, Selection, Insertion, Merge, Quick, and Heap Sort.
+*   Time and Space Complexity checks for different algorithmic passes.
 
-*   `01_Basics/` — Foundational array and list manipulation programs.
-*   `02_Sorting/` — Implementation of classical sorting algorithms.
-*   `03_Data_Structures/` — Custom stack, queue, and abstract data type models.
-*(Note: You can update this section with your exact folder names as you create them this semester!)*
+### 🌳 Unit 4: Non-Linear Data Structures
+*   **Trees:** Binary Tree properties, Binary Search Trees (BST), AVL Trees, and traversal strategies (Preorder, Postorder, Inorder).
+*   **Graphs:** Adjacency matrix and list generation, Graph Traversals (BFS and DFS), Shortest Path logic, and Minimum Spanning Trees (Prim's & Kruskal's algorithms).
+
+### ⚙️ Unit 5: Algorithm Design and Analysis
+*   Algorithmic efficiency checks via Asymptotic notations (Big-O, $\Omega$, $\Theta$).
+*   Implementation techniques based on Divide and Conquer, Greedy strategies, Dynamic Programming, and Backtracking.
 
 ---
 
